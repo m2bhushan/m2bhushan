@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mani Bhushan
-- 👀 I’m learning c#,asp.net mvc,and web development tools. 
+- 👀 I’m a learning Full stack developer with good knowledge in these techonology - c#,asp.net mvc,Javascript, Reactjs , Html, Css, Sql.
 - 💞️ I’m looking to collaborate on website development
