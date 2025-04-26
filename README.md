@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Mani Bhushan
-- 👀 I’m a learning Full stack developer with good knowledge in these techonology - c#,asp.net mvc,Javascript, Reactjs , Html, Css, Sql.
-- 💞️ I’m looking to collaborate on website development
+- 👀 I’m a Data rngineer having experise in Pyspark, python, sql and azure services, Databricks, Jenkins, UCD.
