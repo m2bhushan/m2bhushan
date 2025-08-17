@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mani Bhushan
-- 👀 I’m a Data engineer having experise in Pyspark, python, sql and azure services, Databricks, Jenkins, UCD.
+- 👀 I’m a Databricks Certified Data Engineer having experise in Pyspark, python, sql and azure services, Jenkins, UCD.
